@@ -1,0 +1,12 @@
+h1, h2{
+	text-align: center;
+	background-color: blue;
+	color: blue;
+	text-transform: capitalize;
+	text-shadow: darkred;
+	padding: 5px;
+}
+
+p{
+	text-align: justify;
+}
